@@ -6,7 +6,7 @@ Leetcode 328.
 
 <details><summary>Click here</summary>  
 <br></br>
-  Create two dummy nodes to act as head of even and odd partition and iterate over original list with a counter. Odd nodes go to odd list, even nodes go to even list. In the end link them up.
+  Create two dummy nodes to act as head of even and odd partition and iterate over original list with a counter. Odd nodes go to odd list, even nodes go to even list. In the end link them up. O(n) time, constant space.
 </details>
 
 # Installation
