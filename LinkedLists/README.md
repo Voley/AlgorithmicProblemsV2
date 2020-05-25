@@ -6,3 +6,4 @@ This folder contains Linked List problems.
 * [Intersection of Two Linked Lists (Easy 160)](/LinkedLists/Intersection/)
 * [Remove Nth Node From End of List (Medium 19)](/LinkedLists/kthlast/)
 * [Even Odd Partition (Medium 328)](/LinkedLists/EvenOdd/)
+* [Rotate List (Medium 61)](/LinkedLists/rotate/)
