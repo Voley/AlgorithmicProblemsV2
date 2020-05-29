@@ -8,3 +8,4 @@ This folder contains Linked List problems.
 * [Even Odd Partition (Medium 328)](/LinkedLists/EvenOdd/)
 * [Rotate List (Medium 61)](/LinkedLists/rotate/)
 * [Add Two Numbers (Medium 2)](/LinkedLists/add/)
+* [Swap Nodes in Pairs (Medium 24)](/LinkedLists/swap/)
