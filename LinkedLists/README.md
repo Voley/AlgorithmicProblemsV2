@@ -7,3 +7,4 @@ This folder contains Linked List problems.
 * [Remove Nth Node From End of List (Medium 19)](/LinkedLists/kthlast/)
 * [Even Odd Partition (Medium 328)](/LinkedLists/EvenOdd/)
 * [Rotate List (Medium 61)](/LinkedLists/rotate/)
+* [Add Two Numbers (Medium 2)](/LinkedLists/add/)
