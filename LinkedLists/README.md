@@ -12,3 +12,4 @@ This folder contains Linked List problems.
 * [Swap Nodes in Pairs (Medium 24)](/LinkedLists/swap/)
 * [Copy List with Random Pointer (Medium 138)](/LinkedLists/copy/)
 * [Reverse Linked List II (Medium 92)](/LinkedLists/reverse_segment/)
+* [Flatten a Multilevel Doubly Linked List (Medium 430)](/LinkedLists/flatten/)
