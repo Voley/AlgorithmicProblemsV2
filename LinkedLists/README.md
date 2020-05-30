@@ -10,3 +10,4 @@ This folder contains Linked List problems.
 * [Rotate List (Medium 61)](/LinkedLists/rotate/)
 * [Add Two Numbers (Medium 2)](/LinkedLists/add/)
 * [Swap Nodes in Pairs (Medium 24)](/LinkedLists/swap/)
+* [Copy List with Random Pointer (Medium 138)](/LinkedLists/copy/)
