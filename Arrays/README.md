@@ -7,3 +7,4 @@ This folder contains Array problems.
 * [3Sum (Medium 15)](/Arrays/3sum/)
 * [Sort Colors (Medium 75)](/Arrays/dutch/)
 * [Random Pick Index (Medium 398)](/Arrays/index/)
+* [Spiral Matrix II (Medium 59)](/Arrays/spiral/)
