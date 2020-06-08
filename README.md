@@ -6,6 +6,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Arrays](Arrays/)
 #### [Bitwise operations](Bitwise/)
 #### [Geometry](Geometry/)
+#### [Strings](Strings/)
 
 
 License
