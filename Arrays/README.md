@@ -9,3 +9,4 @@ This folder contains Array problems.
 * [Sort Colors (Medium 75)](/Arrays/dutch/)
 * [Random Pick Index (Medium 398)](/Arrays/index/)
 * [Spiral Matrix II (Medium 59)](/Arrays/spiral/)
+* [Valid Sudoku (Medium 36)](/Arrays/valids/)
