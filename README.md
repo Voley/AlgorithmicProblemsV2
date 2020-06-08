@@ -8,6 +8,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Geometry](Geometry/)
 #### [Strings](Strings/)
 #### [Recursion](Recursion/)
+#### [Stacks](Stacks/)
 
 
 License
