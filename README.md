@@ -7,6 +7,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Bitwise operations](Bitwise/)
 #### [Geometry](Geometry/)
 #### [Strings](Strings/)
+#### [Recursion](Recursion/)
 
 
 License
