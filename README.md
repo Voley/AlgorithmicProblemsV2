@@ -9,6 +9,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Strings](Strings/)
 #### [Recursion](Recursion/)
 #### [Stacks](Stacks/)
+#### [Trees](Trees/)
 
 
 License
