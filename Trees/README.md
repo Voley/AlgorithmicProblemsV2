@@ -6,3 +6,4 @@ This folder contains tree problems.
 * [Symmetric Tree (Easy 101)](/Trees/sym/)
 * [Binary Tree Level Order Traversal (Medium 102)](/Trees/level/)
 * [Lowest Common Ancestor of a Binary Tree (Medium 236)](/Trees/anc/)
+* [Construct Binary Tree from Preorder and Inorder Traversal (Medium 105)](/Trees/construct/)
