@@ -1,4 +1,4 @@
-# Recursion
+# Stacks
 
 This folder contains stack problems.
 

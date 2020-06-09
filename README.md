@@ -10,6 +10,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Recursion](Recursion/)
 #### [Stacks](Stacks/)
 #### [Trees](Trees/)
+#### [Queues](Queues/)
 
 
 License
