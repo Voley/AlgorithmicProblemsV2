@@ -11,3 +11,4 @@ This folder contains tree problems.
 * [Construct Binary Tree from Preorder and Inorder Traversal (Medium 105)](/Trees/construct/)
 * [Validate Binary Search Tree (Medium 98)](/Trees/validate/)
 * [Populating Next Right Pointers in Each Node (Medium 116)](/Trees/next/)
+* [Convert Sorted List to Binary Search Tree (Medium 109)](/Trees/sortedlist/)
