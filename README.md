@@ -13,6 +13,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Queues](Queues/)
 #### [Heap](Heap/)
 #### [Hash Tables](HashTables/)
+#### [Search](Search/)
 
 
 License
