@@ -3,4 +3,5 @@
 This folder contains search problems.
 
 * [First Bad Version (Easy 278)](/Search/first)
+* [Sqrt(x) (Easy 69)](/Search/sqrt)
 * [Find First and Last Position of Element in Sorted Array (Medium 34)](/Search/fl)
