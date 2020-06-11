@@ -11,6 +11,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Stacks](Stacks/)
 #### [Trees](Trees/)
 #### [Queues](Queues/)
+#### [Heap](Heap/)
 
 
 License
