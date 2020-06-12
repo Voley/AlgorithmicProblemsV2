@@ -14,3 +14,4 @@ This folder contains Array problems.
 * [Random Pick Index (Medium 398)](/Arrays/index/)
 * [Spiral Matrix II (Medium 59)](/Arrays/spiral/)
 * [Valid Sudoku (Medium 36)](/Arrays/valids/)
+* [Find the Duplicate Number (Medium 287)](/Arrays/dup2/)
