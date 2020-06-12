@@ -10,6 +10,7 @@ This folder contains Array problems.
 * [Merge Sorted Array (Easy 88)](/Arrays/merge/)
 * [Contains Duplicate (Easy 217)](/Arrays/duplicates/)
 * [Single Number (Easy 136)](/Arrays/single/)
+* [Set Mismatch (Easy 645)](/Arrays/mismatch/)
 * [3Sum (Medium 15)](/Arrays/3sum/)
 * [Sort Colors (Medium 75)](/Arrays/dutch/)
 * [Random Pick Index (Medium 398)](/Arrays/index/)
