@@ -14,4 +14,5 @@ This folder contains Linked List problems.
 * [Copy List with Random Pointer (Medium 138)](/LinkedLists/copy/)
 * [Reverse Linked List II (Medium 92)](/LinkedLists/reverse_segment/)
 * [Flatten a Multilevel Doubly Linked List (Medium 430)](/LinkedLists/flatten/)
+* [Linked List Cycle II (Medium 142)](/LinkedLists/cycle2/)
 * [Merge k Sorted Lists (Hard 23)](/LinkedLists/mergek/)
