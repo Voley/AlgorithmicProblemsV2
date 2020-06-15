@@ -14,6 +14,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Heap](Heap/)
 #### [Hash Tables](HashTables/)
 #### [Search](Search/)
+#### [Sort](Sort/)
 
 
 License
