@@ -12,6 +12,7 @@ This folder contains Array problems.
 * [Single Number (Easy 136)](/Arrays/single/)
 * [Set Mismatch (Easy 645)](/Arrays/mismatch/)
 * [Intersection of Three Sorted Arrays (Easy 1213)](/Arrays/inters/)
+* [Add to Array-Form of Integer (Easy 989)](/Arrays/add/)
 * [3Sum (Medium 15)](/Arrays/3sum/)
 * [Sort Colors (Medium 75)](/Arrays/dutch/)
 * [Random Pick Index (Medium 398)](/Arrays/index/)
