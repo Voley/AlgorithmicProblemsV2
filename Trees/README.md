@@ -16,3 +16,4 @@ This folder contains tree problems.
 * [Populating Next Right Pointers in Each Node (Medium 116)](/Trees/next/)
 * [Convert Sorted List to Binary Search Tree (Medium 109)](/Trees/sortedlist/)
 * [Kth Smallest Element in a BST (Medium 230)](/Trees/kth/)
+* [Construct Binary Search Tree from Preorder Traversal (Medium 1008)](/Trees/cons/)
