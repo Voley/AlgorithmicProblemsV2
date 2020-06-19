@@ -15,6 +15,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 #### [Hash Tables](HashTables/)
 #### [Search](Search/)
 #### [Sort](Sort/)
+#### [Dynamic Programming](Dynamic/)
 
 
 License
