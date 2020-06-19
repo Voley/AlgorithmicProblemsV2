@@ -8,3 +8,4 @@ This folder contains recursion problems.
 * [Combination Sum (Medium 39)](/Recursion/sum/)
 * [Combination Sum II (Medium 40)](/Recursion/sum2/)
 * [Subsets (Medium 78)](/Recursion/subs/)
+* [Sudoku Solver (Hard 37)](/Recursion/sudoku/)
