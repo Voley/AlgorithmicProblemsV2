@@ -14,6 +14,7 @@ This folder contains Array problems.
 * [Intersection of Three Sorted Arrays (Easy 1213)](/Arrays/inters/)
 * [Add to Array-Form of Integer (Easy 989)](/Arrays/add/)
 * [Monotonic Array (Easy 896)](/Arrays/monotonic/)
+* [Degree of an Array (Easy 697)](/Arrays/degree/)
 * [3Sum (Medium 15)](/Arrays/3sum/)
 * [Sort Colors (Medium 75)](/Arrays/dutch/)
 * [Random Pick Index (Medium 398)](/Arrays/index/)
