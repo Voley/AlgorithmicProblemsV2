@@ -26,3 +26,4 @@ This folder contains Array problems.
 * [Interval List Intersections (Medium 986)](/Arrays/interval/)
 * [3Sum Closest (Medium 16)](/Arrays/3sumc/)
 * [Gas Station (Medium 134)](/Arrays/gas/)
+* [Container With Most Water (Medium 11)](/Arrays/water/)

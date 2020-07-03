@@ -1,20 +1,18 @@
 // Problem code
-func majorityElement(_ nums: [Int]) -> Int {
-	
-	var element = nums[0]
-	var count = 1
-	
-	for i in 1..<nums.count {
-		if nums[i] == element {
-			count += 1
-		} else {
-			count -= 1
-		}
+func maxArea(_ height: [Int]) -> Int {
+	var left = 0
+	var right = height.count - 1
+	var maximum = 0
+	while left < right {
+		let side = min(height[left], height[right])
+		let square = side * (right - left)
+		maximum = max(square, maximum)
 		
-		if count <= 0 {
-			element = nums[i]
-			count = 1
+		if height[left] < height[right] {
+			left += 1
+		} else {
+			right -= 1
 		}
 	}
-	return element
+	return maximum
 }
