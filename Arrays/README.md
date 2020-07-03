@@ -23,3 +23,4 @@ This folder contains Array problems.
 * [Find the Duplicate Number (Medium 287)](/Arrays/dup2/)
 * [Find All Duplicates in an Array (Medium 442)](/Arrays/dups/)
 * [Interval List Intersections (Medium 986)](/Arrays/interval/)
+* [3Sum Closest (Medium 16)](/Arrays/3sumc/)
